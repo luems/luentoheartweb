@@ -113,6 +113,11 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         else if (gotName.toLowerCase().includes("repotula")){
             result = "Peare";
+        }else if(gotName.toLowerCase().includes("tsk")){
+            result = "WHA I DO 😭";
+        }
+        else if(gotName.toLowerCase().includes("hello")){
+            result = "HAIIII";
         }
         
         
